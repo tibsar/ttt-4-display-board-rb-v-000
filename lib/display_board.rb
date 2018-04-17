@@ -1,4 +1,4 @@
 def display_board(board)
   # board = [" ", " ", " ", ... ]
-  puts " #{} | #{} | #{} "
+  puts " #{board[0]} | #{row[]} | #{} "
 end
