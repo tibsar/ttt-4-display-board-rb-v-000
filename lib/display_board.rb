@@ -8,3 +8,4 @@ def display_board(board)
 end
 
 # display_board(["X"," "," "," ","X"," "," ","O","X"])
+display_board(board)
